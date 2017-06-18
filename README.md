@@ -1,2 +1,2 @@
 # heelo-world
-test git
+This is a test of git.
